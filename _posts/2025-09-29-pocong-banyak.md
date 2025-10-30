@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Misteri Pocong Banyak: Jejak, Kepercayaan, dan Fenomena Budaya
+title: "Misteri Pocong Banyak: Jejak, Kepercayaan, dan Fenomena Budaya"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" fill="none" stroke="currentColor" stroke-width="2">
@@ -404,3 +404,4 @@ Fenomena "pocong banyak" menawarkan beberapa implikasi penting:
 *   **Potensi Hiburan dan Edukasi:** Kisah-kisah ini dapat terus menjadi sumber hiburan yang mendebarkan, tetapi juga dapat digunakan sebagai alat edukasi untuk mengajarkan nilai-nilai moral, sejarah lokal, dan kearifan budaya.
 
 Pada akhirnya, "pocong banyak" bukanlah sekadar cerita hantu. Ia adalah cerminan dari kompleksitas imajinasi manusia, kedalaman kepercayaan spiritual, dan kekayaan tradisi budaya yang terus hidup dan berdenyut di Indonesia. Ia mengajarkan kita untuk melihat lebih dalam pada apa yang kita percayai, bagaimana kita menafsirkan dunia di sekitar kita, dan bagaimana mitos dapat terus membentuk identitas kita sebagai sebuah bangsa.
+
