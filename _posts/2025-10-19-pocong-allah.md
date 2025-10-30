@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Allah: Mitos, Realitas, dan Peran dalam Budaya Populer
+title: "Pocong Allah: Mitos, Realitas, dan Peran dalam Budaya Populer"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100" fill="currentColor" color="currentColor">
@@ -333,3 +333,4 @@ Meskipun artikel ini mencoba mengupas fenomena "pocong Allah" secara mendalam, m
 *   **Pendidikan dan Edukasi yang Berkelanjutan:** Terus mengedukasi masyarakat tentang pentingnya Tauhid, literasi agama, dan berpikir kritis dalam menghadapi fenomena budaya yang kompleks.
 
 Pada akhirnya, "pocong Allah" adalah lebih dari sekadar sebuah istilah. Ia adalah sebuah narasi yang terus berkembang, sebuah cerminan dari bagaimana kita, sebagai manusia, berupaya memahami yang gaib, yang menakutkan, dan yang sakral dalam dunia yang terus berubah. Dengan pendekatan yang bijaksana, penuh rasa hormat, dan analitis, kita dapat terus belajar dari fenomena-fenomena seperti ini, memperkaya pemahaman kita tentang diri kita sendiri dan masyarakat tempat kita hidup.
+
