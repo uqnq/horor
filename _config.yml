@@ -1,9 +1,9 @@
 # Setup
-title: Poo
+title: Horor
 tagline: blog
 url: ""   # isi dengan domain asli kamu
 paginate: 7
-baseurl: "/POO"
+baseurl: "https://horor.jasadukun.com"
 permalink: /:title
 
 # Plugins (Gems)
