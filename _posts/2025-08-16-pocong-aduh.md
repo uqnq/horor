@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Aduh: Antara Mitos, Fenomena Budaya, dan Eksplorasi Unik di Dunia Maya
+title: "Pocong Aduh: Antara Mitos, Fenomena Budaya, dan Eksplorasi Unik di Dunia Maya"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099cc" fill-opacity="1" d="M0,192L80,213.3C160,235,320,277,480,266.7C640,256,800,192,960,170.7C1120,149,1280,171,1360,181.3L1440,192L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
@@ -356,3 +356,4 @@ Di samping itu, penting untuk menyadari tantangan dan kritik yang menyertai popu
 Ke depannya, "Pocong Aduh" kemungkinan akan terus berevolusi. Inovasi dalam narasi interaktif, potensi kehadiran di metaverse, kolaborasi lintas budaya, dan integrasi teknologi seperti AI, akan membuka babak baru dalam perjalanannya. Ia akan terus menjadi cerminan dari bagaimana kita, sebagai masyarakat, memandang ketakutan, humor, dan tempat kita di dunia yang terus berubah.
 
 Pada akhirnya, "Pocong Aduh" adalah pengingat yang menarik bahwa warisan budaya tidaklah statis. Ia adalah entitas yang hidup, yang dapat ditempa dan dibentuk oleh imajinasi kolektif kita, menawarkan hiburan, refleksi, dan bahkan koneksi budaya yang tak terduga di tengah kompleksitas kehidupan modern. Keunikan "Pocong Aduh" terletak pada kemampuannya untuk merangkum elemen-elemen yang bertentangan—horor dan humor, yang gaib dan yang manusiawi—dalam satu sosok yang tak terlupakan.
+
