@@ -2,14 +2,12 @@
 title: Horor
 tagline: blog
 url: "https://horor.jasadukun.com"   # isi dengan domain asli kamu
-paginate: 7
 baseurl: "/"
 permalink: /:title
 
 # Plugins (Gems)
 plugins:
   - jekyll-gist
-  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap     # <--- tambahkan ini
 
