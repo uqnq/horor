@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menguak Misteri dan Fenomena Pocong Bergoyang: Dari Mitos Hingga Realitas Budaya
+title: "Menguak Misteri dan Fenomena Pocong Bergoyang: Dari Mitos Hingga Realitas Budaya"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" fill="none" stroke="currentColor" stroke-width="2">
@@ -296,3 +296,4 @@ Pada akhirnya, **pocong bergoyang** bukanlah sekadar tren sesaat. Ia adalah cerm
 ### 10. Referensi (Opsional)
 
 *   (Anda dapat menambahkan referensi buku, artikel jurnal, atau sumber terpercaya lainnya di sini jika artikel ini didasarkan pada penelitian yang lebih mendalam.)
+
