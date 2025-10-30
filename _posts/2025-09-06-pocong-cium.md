@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Cium: Menyelami Mitos, Fenomena, dan Jejak Budaya di Balik Legenda Urban
+title: "Pocong Cium: Menyelami Mitos, Fenomena, dan Jejak Budaya di Balik Legenda Urban"
 ---
 
 ## Daftar Isi
@@ -358,3 +358,4 @@ Pada akhirnya, pocong cium, seperti halnya banyak legenda urban lainnya, berfung
 Meskipun mungkin tidak pernah ada bukti konklusif tentang keberadaan pocong cium secara harfiah, dampaknya pada budaya, imajinasi, dan cara kita memahami ketakutan adalah nyata. Pocong cium mengingatkan kita bahwa di balik setiap legenda, tersembunyi sebuah cerita tentang pengalaman manusia—tentang keberanian kita dalam menghadapi yang tidak diketahui, dan tentang cara kita terus-menerus menciptakan makna di dunia yang penuh misteri. Legenda ini akan terus hidup, bergema dalam bisikan malam, di layar lebar, dan di dalam pikiran kita, sebagai pengingat akan misteri abadi kehidupan dan kematian.
 
 ---
+
