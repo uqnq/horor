@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Cinta: Misteri, Mitos, dan Kisah Tragis di Balik Hantu Lokal Indonesia
+title: "Pocong Cinta: Misteri, Mitos, dan Kisah Tragis di Balik Hantu Lokal Indonesia"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" fill="none" stroke="#000" stroke-width="10">
@@ -260,3 +260,4 @@ Dari kisah-kisah rakyat yang diturunkan dari generasi ke generasi, hingga film-f
 Memahami pocong cinta berarti memahami bahwa mitos, bahkan yang paling mengerikan sekalipun, seringkali membawa pesan yang lebih dalam tentang kondisi manusia. Ia mengingatkan kita akan kerapuhan hidup, kekuatan cinta, dan pentingnya menghargai setiap momen bersama orang yang kita cintai.
 
 Legenda pocong cinta, dengan segala misteri, tragedi, dan romantismenya, akan terus hidup dalam imajinasi kolektif Indonesia. Ia adalah bukti bahwa bahkan dalam bentuk hantu yang paling menyeramkan sekalipun, manusia selalu mencari resonansi emosional dan makna dalam kisah-kisahnya. Pocong cinta adalah bukti abadi bahwa cinta, bahkan yang terputus oleh kematian, tetap menjadi kekuatan yang paling kuat dan paling menghantui di alam semesta ini.
+
