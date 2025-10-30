@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Batman: Misteri Sang Penyelamat Kegelapan di Nusantara
+title: "Pocong Batman: Misteri Sang Penyelamat Kegelapan di Nusantara"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
@@ -248,3 +248,4 @@ Lebih dari sekadar lelucon atau tren sesaat, **Pocong Batman** adalah cerminan y
 Pada akhirnya, **Pocong Batman** mengajarkan kita bahwa makna seringkali tersembunyi bahkan dalam hal-hal yang paling absurd sekalipun. Ia mengingatkan kita akan kekuatan imajinasi manusia untuk menciptakan, beradaptasi, dan menemukan humor bahkan dalam perpaduan hal-hal yang paling tidak mungkin. Entitas ini mungkin tidak akan pernah menjadi bagian resmi dari mitologi pocong atau kanon DC Comics, tetapi ia telah mengukir tempatnya sendiri dalam lanskap budaya pop internet Indonesia, sebagai ikon unik yang lahir dari persilangan antara tradisi, modernitas, dan kejenakaan digital.
 
 Misteri **Pocong Batman** bukanlah tentang asal-usul fisiknya yang misterius, melainkan tentang makna yang lebih dalam di balik kehadirannya—sebuah alegori tentang bagaimana kita, sebagai masyarakat, merangkul dunia di sekitar kita dengan cara yang cerdas, kreatif, dan seringkali, sangat lucu. Ia adalah ksatria kegelapan kita, yang mungkin melompat alih-alih berlari, tetapi tetap berhasil menerangi imajinasi kita.
+
