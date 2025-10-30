@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Bodor: Melampaui Mistis Menuju Tawa yang Menghibur
+title: "Pocong Bodor: Melampaui Mistis Menuju Tawa yang Menghibur"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200">
@@ -355,3 +355,4 @@ Pada akhirnya, pocong bodor adalah perayaan kreativitas dan kemampuan manusia un
 Kita diundang untuk terus mengapresiasi kekayaan budaya Indonesia yang dinamis, termasuk kemampuan masyarakatnya untuk beradaptasi dan berkreasi. Pocong bodor, dengan segala keunikannya, adalah salah satu manifestasi dari kekayaan tersebut. Ia mengajarkan kita bahwa terkadang, cara terbaik untuk menghadapi ketakutan adalah dengan menertawakannya, dan bahwa dalam setiap sosok yang menakutkan, mungkin tersimpan potensi kelucuan yang tak terduga. Mari kita terus merayakan kreativitas yang muncul dari akar budaya kita, dan terus menemukan tawa yang dapat menyatukan kita. Pocong bodor, dalam segala absurditasnya, telah membuktikan bahwa tawa adalah bahasa universal yang mampu melampaui batas-batas ketakutan dan tradisi.
 
 ---
+
