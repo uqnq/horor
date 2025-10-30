@@ -1,9 +1,9 @@
 # Setup
 title: Horor
 tagline: blog
-url: ""   # isi dengan domain asli kamu
+url: "https://horor.jasadukun.com"   # isi dengan domain asli kamu
 paginate: 7
-baseurl: "https://horor.jasadukun.com"
+baseurl: "/"
 permalink: /:title
 
 # Plugins (Gems)
