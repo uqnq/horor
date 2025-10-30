@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Balap: Fenomena Budaya yang Menggemparkan Dunia Maya
+title: "Pocong Balap: Fenomena Budaya yang Menggemparkan Dunia Maya"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" fill="none" stroke="currentColor" stroke-width="2">
@@ -425,3 +425,4 @@ Pocong balap adalah pengingat yang menarik bahwa budaya tidak pernah statis. Ia 
 Namun, dalam menikmati fenomena seperti pocong balap, penting untuk melakukannya dengan bijak. Kita dapat terhibur oleh kelucuannya, mengagumi kreativitasnya, dan bahkan belajar tentang bagaimana budaya kita berevolusi. Di saat yang sama, kita juga perlu menjaga agar akar budaya yang mendasarinya tetap dihormati, menghindari eksploitasi yang dangkal, dan selalu kritis terhadap bagaimana konten digital membentuk persepsi kita.
 
 Pocong balap mungkin akan menjadi tren yang berlalu, tergantikan oleh fenomena viral lainnya. Namun, pelajaran yang bisa kita ambil dari perjalanannya – tentang kreativitas, adaptasi budaya, dan kekuatan media digital – akan tetap relevan. Ia adalah bukti bahwa bahkan dari ikon yang paling menakutkan sekalipun, kita bisa menemukan tawa dan inspirasi, asalkan kita melihatnya dengan mata yang terbuka dan hati yang apresiatif terhadap kekayaan budaya kita. Teruslah berkreasi, teruslah tertawa, dan teruslah merayakan keunikan budaya digital Indonesia!
+
