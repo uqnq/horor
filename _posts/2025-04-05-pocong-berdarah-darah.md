@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Berdarah Darah: Mitos, Realitas, dan Jejak Budaya yang Menyeramkan
+title: "Pocong Berdarah Darah: Mitos, Realitas, dan Jejak Budaya yang Menyeramkan"
 ---
 
 <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg" style="background-color: #f0f0f0; border-radius: 8px; margin-bottom: 20px;">
@@ -271,3 +271,4 @@ Di era digital, mitos ini terus menemukan jalannya, menyebar dengan cepat melalu
 Pada akhirnya, jejak abadi pocong berdarah darah dalam jiwa kolektif masyarakat Indonesia terletak pada kemampuannya untuk menyentuh aspek-aspek terdalam dari kemanusiaan kita: kerentanan kita, ketakutan kita, dan keinginan kita untuk memahami misteri kehidupan dan kematian. Ia adalah cermin dari kegelapan yang ada di luar dan di dalam diri kita, sebuah narasi yang akan terus menghantui, memikat, dan mengingatkan kita akan batas antara dunia nyata dan alam mimpi yang paling menyeramkan.
 
 ---
+
