@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Aryo: Misteri, Mitos, dan Kearifan Lokal yang Menggelitik
+title: "Pocong Aryo: Misteri, Mitos, dan Kearifan Lokal yang Menggelitik"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" aria-label="Ilustrasi Pocong Aryo">
@@ -301,3 +301,4 @@ Mitos tentang penampakan, ciri khas, hingga cara mengusirnya, bukan sekadar ceri
 Lebih jauh lagi, analisis sosiokultural mengungkapkan bahwa Pocong Aryo adalah simbol dari ketakutan kolektif terhadap kematian, pelanggaran norma sosial, dan pentingnya ritual kematian. Ia membawa pesan moral tentang kehidupan yang baik, pentingnya keadilan, dan penghormatan terhadap orang yang telah meninggal. Dalam konteks ini, Pocong Aryo menjadi bagian dari kearifan lokal yang terus diwariskan.
 
 Memahami mitos Pocong Aryo di era modern bukan hanya tentang nostalgia atau hiburan. Ia adalah cara kita untuk menjaga warisan budaya, mengasah kemampuan berpikir kritis dalam menghadapi derasnya arus informasi, dan menggali lebih dalam tentang psikologi manusia dan ketakutan universal. Pocong Aryo, dengan segala misteri dan legendanya, telah mengukir namanya dalam khazanah cerita rakyat Indonesia. Ia mengajarkan kita bahwa terkadang, di balik kisah yang paling menyeramkan, terdapat pelajaran yang paling berharga. Warisannya, yang terus hidup dalam imajinasi kolektif, adalah bukti bahwa cerita yang baik, yang menyentuh akar budaya dan naluri manusia, akan selalu menemukan jalannya untuk terus diceritakan, melintasi zaman, dan tak lekang oleh waktu.
+
