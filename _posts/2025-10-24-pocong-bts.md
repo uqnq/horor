@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong BTS: Mitos, Realitas, dan Kehadiran Tak Terduga di Era Digital
+title: "Pocong BTS: Mitos, Realitas, dan Kehadiran Tak Terduga di Era Digital"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
@@ -364,3 +364,4 @@ Implikasi budaya dan sosial dari fenomena ini sangatlah menarik. Ia mencerminkan
 Namun, di balik semua kreativitas dan humor, ada tantangan etis yang perlu dipertimbangkan. Menghormati budaya asal, menjaga keseimbangan antara humor dan potensi penghinaan, serta menyadari dampak pada citra kedua entitas yang terlibat adalah kunci untuk menavigasi fenomena ini dengan bijak.
 
 Masa depan "Pocong BTS" masih terbuka. Ia bisa saja berevolusi menjadi sesuatu yang lebih besar dan bertahan lama, atau mungkin akan memudar seiring munculnya tren baru. Apapun yang terjadi, fenomena ini telah meninggalkan jejaknya. Ia menjadi representasi sempurna dari bagaimana budaya pop global dan warisan lokal dapat berinteraksi, menciptakan ekspresi baru yang menghibur, mengejutkan, dan seringkali, sangat lucu. "Pocong BTS" adalah pengingat bahwa di dunia digital yang tak terbatas, imajinasi adalah satu-satunya batas, dan terkadang, perpaduan yang paling aneh justru bisa menjadi yang paling menarik. Ia adalah perayaan dari kreativitas tanpa batas, dan bukti bahwa bahkan dari sebuah mitos kuno dan idola pop modern, bisa lahir sesuatu yang sepenuhnya baru dan tak terduga.
+
