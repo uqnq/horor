@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong dan Kuntilanak: Mitos, Misteri, dan Perjumpaan yang Menggugah Jiwa
+title: "Pocong dan Kuntilanak: Mitos, Misteri, dan Perjumpaan yang Menggugah Jiwa"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="800" height="480" preserveAspectRatio="xMidYMid meet">
@@ -504,3 +504,4 @@ Perdebatan mengenai "percaya atau tidak percaya" pada hantu adalah sebuah perjal
 *   **Menemukan Makna Simbolis:** Baik percaya pada keberadaan literal maupun tidak, kita dapat menemukan makna simbolis yang mendalam dari cerita-cerita ini. Pocong dan kuntilanak bisa menjadi metafora yang kuat untuk menghadapi kematian, mengatasi kesedihan, atau memahami kekuatan emosi manusia.
 
 Pada akhirnya, **pocong dengan kuntilanak** bukan hanya sekadar entitas supernatural yang menakutkan. Mereka adalah penjaga cerita, cermin jiwa bangsa, dan bukti bahwa imajinasi manusia selalu mencari cara untuk memahami misteri kehidupan, kematian, dan segala sesuatu yang terbentang di antara keduanya. Warisan mistik ini, dalam berbagai bentuknya, akan terus hidup, beradaptasi, dan terus mempesona generasi mendatang.
+
