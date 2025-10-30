@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong dan Genderuwo: Mitos, Realitas, dan Fenomena Budaya Makhluk Gaib Indonesia
+title: "Pocong dan Genderuwo: Mitos, Realitas, dan Fenomena Budaya Makhluk Gaib Indonesia"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="800" height="400">
@@ -318,3 +318,4 @@ Implikasi sosiokultural dan psikologis dari keberadaan mereka sangatlah signifik
 Pada akhirnya, **pocong** dan **genderuwo** adalah bukti dari kekuatan abadi narasi dan imajinasi manusia. Mereka mengingatkan kita bahwa di balik kemajuan teknologi dan rasionalitas zaman modern, masih ada ruang untuk misteri, ketakutan, dan keyakinan yang membentuk siapa diri kita. Keberlanjutan mitos mereka bukan karena ketidakmampuan masyarakat untuk melupakan masa lalu, melainkan karena cerita-cerita ini terus memberikan makna, menjawab pertanyaan-pertanyaan eksistensial, dan memperkaya identitas budaya kita.
 
 Entah sebagai momok yang membuat merinding, simbol yang penuh makna, atau subjek ekspresi kreatif, **pocong** dan **genderuwo** akan terus menghantui (dalam arti yang baik) dan memperkaya lanskap budaya Indonesia, menunjukkan bahwa bahkan di tengah modernitas, cerita-cerita lama dapat terus hidup dan bernafas.
+
