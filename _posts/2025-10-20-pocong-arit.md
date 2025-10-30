@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Arit: Misteri Makhluk Gaib yang Mengusik Ketenangan Malam
+title: "Pocong Arit: Misteri Makhluk Gaib yang Mengusik Ketenangan Malam"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" fill="#333">
@@ -272,3 +272,4 @@ Kisah-kisah nyata dan pengalaman pribadi, meskipun sulit dibuktikan secara empir
 Tentu saja, pengetahuan tentang cara menghadapi dan menghindarinya, seperti persiapan mental, doa, dan menghindari tempat angker, tetap menjadi bagian penting dari warisan cerita ini. Dan bagaimana pun, pocong arit telah membuktikan dirinya sebagai ikon horor yang tak lekang oleh waktu, terus muncul dalam berbagai bentuk budaya populer, dari cerita lisan hingga layar lebar, memperkaya khazanah cerita rakyat Indonesia.
 
 Pada akhirnya, misteri pocong arit mengajarkan kita tentang berbagai hal. Ia mengajarkan tentang ketakutan terdalam manusia, tentang bagaimana cerita rakyat terbentuk dan bertahan, serta tentang bagaimana imajinasi kita dapat menciptakan entitas yang begitu mengerikan. Entah ia nyata atau sekadar mitos, pocong arit akan terus menjadi bagian dari percakapan tentang hal-hal gaib, membangkitkan rasa penasaran sekaligus sedikit rasa takut setiap kali namanya disebut, terutama di bawah naungan malam yang sunyi. Ia adalah pengingat bahwa di balik kenyataan yang kita kenal, mungkin ada dimensi lain yang menyimpan misteri dan kengerian yang tak terduga.
+
