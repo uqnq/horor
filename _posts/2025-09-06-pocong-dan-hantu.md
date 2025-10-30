@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Menguak Misteri Pocong dan Hantu: Sebuah Kajian Mendalam tentang Makhluk Gaib dalam Budaya Populer
+title: "Menguak Misteri Pocong dan Hantu: Sebuah Kajian Mendalam tentang Makhluk Gaib dalam Budaya Populer"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="200" height="200" fill="none" stroke="#000" stroke-width="2">
@@ -609,3 +609,4 @@ Mitos pocong dan hantu, seperti halnya mitos-mitos lainnya, tidak akan pernah be
 *   **Penggunaan dalam Pendidikan dan Terapi:** Mitos ini dapat digunakan secara bijak dalam konteks pendidikan untuk mengajarkan tentang budaya dan sejarah, atau bahkan dalam terapi, untuk membantu individu mengatasi ketakutan mereka melalui pemahaman dan dialog.
 
 Pada akhirnya, pocong dan hantu adalah pengingat bahwa manusia selalu tertarik pada misteri, alam baka, dan batas-batas realitas yang kita kenal. Mereka adalah bagian tak terpisahkan dari imajinasi manusia dan cerminan abadi dari perjuangan kita untuk memahami keberadaan diri kita sendiri, kematian, dan apa yang mungkin ada di baliknya. Dengan pandangan yang seimbang antara penghargaan budaya, pemikiran kritis, dan empati, kita dapat terus berinteraksi dengan kisah-kisah ini, bukan sebagai korban ketakutan, tetapi sebagai penjelajah budaya yang cerdas.
+
