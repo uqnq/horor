@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Dangdut: Tarian Kematian yang Menghibur dan Menggelitik
+title: "Pocong Dangdut: Tarian Kematian yang Menghibur dan Menggelitik"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="300" viewBox="0 0 1000 300" preserveAspectRatio="xMidYMid meet">
@@ -343,3 +343,4 @@ Popularitasnya yang meroket tidak lepas dari peran platform digital, yang memung
 Dampak pocong dangdut melampaui sekadar hiburan. Ia telah mendorong batas-batas kreativitas dalam industri hiburan, memicu perdebatan tentang sensitivitas budaya dan agama, serta membuka peluang kolaborasi lintas genre yang belum terpikirkan sebelumnya. Fenomena ini adalah cerminan dari masyarakat Indonesia yang dinamis, adaptif, dan mampu merangkul hal-hal yang tidak konvensional dengan selera humor yang tinggi.
 
 Masa depan pocong dangdut mungkin akan melihat evolusi lebih lanjut, dengan diversifikasi musik, karakter yang lebih kompleks, integrasi teknologi, dan bahkan potensi pengakuan sebagai bentuk seni. Apapun yang terjadi, pocong dangdut telah mengukir namanya dalam sejarah budaya pop Indonesia sebagai bukti nyata bahwa kreativitas tak terbatas dapat mengubah yang menakutkan menjadi menghibur, yang tabu menjadi tren, dan yang tidak mungkin menjadi kenyataan yang memukau. Ia adalah tarian kematian yang paling merdu, sebuah perayaan hidup melalui lensa absurditas yang jenaka, dan cerminan sejati dari kekayaan imajinasi tak terduga yang terus berkembang di Indonesia.
+
