@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Bangkit: Mitos, Legenda, dan Fenomena Budaya di Balik Sosok Mengerikan
+title: "Pocong Bangkit: Mitos, Legenda, dan Fenomena Budaya di Balik Sosok Mengerikan"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200" viewBox="0 0 1200 200" preserveAspectRatio="xMidYMid slice">
@@ -279,3 +279,4 @@ Menghadapi ketakutan terhadap pocong bangkit menuntut pemahaman yang lebih dalam
 Pada akhirnya, pocong bangkit bukan hanya tentang hantu yang menakutkan. Ia adalah bagian dari warisan budaya kita yang kaya, cerminan dari bagaimana kita memahami kehidupan, kematian, dan alam semesta. Ia adalah kisah yang terus diceritakan, beradaptasi, dan berkembang, sama seperti kita, manusia yang menciptakan dan menghidupinya. Ia adalah pengingat bahwa di setiap sudut kegelapan yang kita takutkan, seringkali tersembunyi cerita yang paling menarik tentang siapa diri kita.
 
 ---
+
