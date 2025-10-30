@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pocong Asli Seram: Mitos, Legenda, dan Keberadaan yang Menyeramkan
+title: "Pocong Asli Seram: Mitos, Legenda, dan Keberadaan yang Menyeramkan"
 ---
 
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" fill="none" stroke="currentColor" stroke-width="2" width="600" height="400">
@@ -366,3 +366,4 @@ Dalam ranah budaya populer, pocong telah berevolusi dari sekadar sosok menakutka
 Namun, di balik semua legenda, cerita, dan adaptasi, pertanyaan tentang keberadaan fisik pocong tetap menjadi misteri. Dari perspektif ilmiah, tidak ada bukti yang memadai untuk mendukung klaim tersebut. Namun, dari perspektif budaya dan psikologis, pocong adalah entitas yang sangat "nyata". Ia adalah konstruksi sosial dan imajinatif yang memiliki dampak nyata pada emosi, kepercayaan, dan perilaku manusia. Ia berfungsi sebagai pengingat akan batas antara kehidupan dan kematian, antara yang diketahui dan yang tidak diketahui.
 
 Pada akhirnya, **pocong asli seram** mungkin tidak ada dalam arti biologis atau fisik. Namun, ia ada dalam benak kita, dalam cerita kita, dan dalam cara kita memahami dunia di sekitar kita. Ia adalah cerminan dari ketakutan kita, harapan kita akan kedamaian setelah kematian, dan kekayaan warisan budaya yang terus hidup. Pocong akan terus menghantui imajinasi kita, sebagai bukti abadi kekuatan mitos dan kedalaman ketakutan manusia.
+
